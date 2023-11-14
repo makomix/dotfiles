@@ -1,0 +1,3 @@
+# dotfiles
+
+- win or mac
